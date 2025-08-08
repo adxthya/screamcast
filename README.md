@@ -17,11 +17,11 @@ The project uses the voice of the user to set the volume of the video being play
 
 ### The Problem (that doesn't exist)
 
-Control volume while watching videos
+Control volume while watching videos with your voice.
 
 ### The Solution (that nobody asked for)
 
-Voice automated volume control
+Voice automated volume control.
 
 ## Technical Details
 
@@ -50,21 +50,21 @@ For Software:
 
 # Screenshots (Add at least 3)
 
-![./assets/screenshot.png](Add screenshot 1 here with proper name)
-_Add caption explaining what this shows_
+<img width="3382" height="1756" alt="image" src="https://github.com/user-attachments/assets/e780bd97-5e45-432a-b234-0cb678557f0f" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
-_Add caption explaining what this shows_
+The video volume is initially low when there is no voice input from the user.
 
-![Screenshot3](Add screenshot 3 here with proper name)
-_Add caption explaining what this shows_
+<img width="3340" height="1652" alt="image" src="https://github.com/user-attachments/assets/7d8741f8-db9b-47be-862f-8ded9bf607e1" />
+
+The video volume increases as the voice of the user increases.
 
 ### Project Demo
 
 # Video
 
-[Add your demo video link here]
-_Explain what the video demonstrates_
+https://github.com/user-attachments/assets/b92b958d-346c-466f-895b-687c4fb63d83
+
+The voice of the video is being controlled with voice. The volume of the user is proportional to the voice of the user.
 
 # Additional Demos
 
